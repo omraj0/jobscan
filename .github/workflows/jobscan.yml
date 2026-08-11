@@ -1,0 +1,44 @@
+name: Daily job scan
+
+on:
+  schedule:
+    # 02:30 UTC = 08:00 IST. GitHub cron is always UTC.
+    # Note: scheduled runs on free tier can drift 5-15 min under load.
+    - cron: "30 2 * * *"
+  workflow_dispatch:        # lets you trigger it by hand from the Actions tab
+
+permissions:
+  contents: write           # required so the job can commit results back
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scan
+        run: python jobscan.py --config boards.json --outdir data
+        continue-on-error: true    # one dead board shouldn't fail the whole run
+
+      - name: Commit results
+        run: |
+          git config user.name  "jobscan-bot"
+          git config user.email "actions@github.com"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "Nothing changed today."
+          else
+            git commit -m "scan: $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
