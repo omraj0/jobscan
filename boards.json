@@ -1,0 +1,219 @@
+{
+  "_comment": "Tuned for Om Raj (~1.1 yrs FTE, target band 0-2 yrs). Slugs here are verified live. Run --detect on _verify_these to add more.",
+  "keywords": [
+    "sde 1",
+    "sde-1",
+    "sde i",
+    "software engineer i",
+    "software development engineer",
+    "associate software engineer",
+    "graduate engineer",
+    "backend engineer",
+    "backend developer",
+    "software engineer",
+    "software developer",
+    "sde 2",
+    "sde-2",
+    "software engineer ii",
+    "engineer ii",
+    "swe ii",
+    "intermediate backend",
+    "member of technical staff",
+    "python",
+    "django",
+    "fastapi",
+    "golang",
+    "go backend",
+    "java backend",
+    "spring boot",
+    "rust",
+    "ai engineer",
+    "applied ai",
+    "ai platform",
+    "llm",
+    "genai",
+    "rag",
+    "platform engineer",
+    "distributed systems",
+    "full stack engineer"
+  ],
+  "exclude": [
+    "staff",
+    "principal",
+    "lead ",
+    "architect",
+    "manager",
+    "director",
+    "head of",
+    "vp ",
+    "chief",
+    "intern",
+    "internship",
+    "trainee",
+    "fresher",
+    "qa ",
+    "sdet",
+    "test engineer",
+    "automation engineer",
+    "devops",
+    "site reliability",
+    "frontend",
+    "front-end",
+    "front end",
+    "mobile",
+    "android",
+    "ios ",
+    "data analyst",
+    "data scientist",
+    "support",
+    "sales",
+    "marketing",
+    "recruiter",
+    "product manager",
+    "designer",
+    "machine learning research",
+    "research scientist"
+  ],
+  "locations": [
+    "bangalore",
+    "bengaluru",
+    "hyderabad",
+    "pune",
+    "delhi",
+    "gurgaon",
+    "gurugram",
+    "noida",
+    "ncr",
+    "remote",
+    "india"
+  ],
+  "max_age_days": 10,
+  "boards": [
+    {
+      "ats": "greenhouse",
+      "slug": "gitlab",
+      "company": "GitLab"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "gleanwork",
+      "company": "Glean"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "atomicwork",
+      "company": "Atomicwork"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "databricks",
+      "company": "Databricks"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "project44",
+      "company": "project44"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "ethoslife",
+      "company": "Ethos Life"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "mesh",
+      "company": "Mesh"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "easyship",
+      "company": "Easyship"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "roku",
+      "company": "Roku"
+    },
+    {
+      "ats": "greenhouse",
+      "slug": "pinterest",
+      "company": "Pinterest"
+    },
+    {
+      "ats": "lever",
+      "slug": "revefi",
+      "company": "Revefi"
+    },
+    {
+      "ats": "ashby",
+      "slug": "ema",
+      "company": "Ema"
+    },
+    {
+      "ats": "workday",
+      "host": "omnissa.wd501.myworkdayjobs.com",
+      "tenant": "omnissa",
+      "site": "omnissa_external_career_site",
+      "company": "Omnissa",
+      "search": "engineer"
+    },
+    {
+      "ats": "workday",
+      "host": "visa.wd5.myworkdayjobs.com",
+      "tenant": "visa",
+      "site": "Visa",
+      "company": "Visa",
+      "search": "software engineer"
+    },
+    {
+      "ats": "workday",
+      "host": "nvidia.wd5.myworkdayjobs.com",
+      "tenant": "nvidia",
+      "site": "NVIDIAExternalCareerSite",
+      "company": "NVIDIA",
+      "search": "software engineer"
+    },
+    {
+      "ats": "workday",
+      "host": "walmart.wd504.myworkdayjobs.com",
+      "tenant": "walmart",
+      "site": "walmartexternal",
+      "company": "Walmart",
+      "search": "software engineer"
+    },
+    {
+      "ats": "workday",
+      "host": "salesforce.wd12.myworkdayjobs.com",
+      "tenant": "salesforce",
+      "site": "External_Career_Site",
+      "company": "Salesforce",
+      "search": "software engineer india"
+    },
+    {
+      "ats": "workday",
+      "host": "mckesson.wd3.myworkdayjobs.com",
+      "tenant": "mckesson",
+      "site": "External_Careers",
+      "company": "McKesson",
+      "search": "software engineer"
+    },
+    {
+      "ats": "workday",
+      "host": "paypal.wd1.myworkdayjobs.com",
+      "tenant": "paypal",
+      "site": "jobs",
+      "company": "PayPal",
+      "search": "software engineer india"
+    }
+  ],
+  "_verify_these": [
+    "Workday tenants above were found via search; if one 404s, open its careers page and re-run --detect.",
+    "Run: python jobscan.py --detect <careers-url>  then paste the output into boards above.",
+    "AI-first India: sarvam.ai, krutrim.com, dashtoon.com, sarvam, neysa.ai",
+    "Fintech: razorpay.com/jobs, cred.club/careers, jupiter.money, setu.co, juspay.in, navi.com, slice",
+    "Devtools/infra: postman.com/company/careers, hasura.io/careers, atlan.com, browserstack.com/careers, chargebee.com, freshworks.com",
+    "Scale-ups: zeta.tech, sprinklr.com, moengage.com, whatfix.com, clevertap.com, innovaccer.com, darwinbox.com, zluri.com",
+    "Consumer: swiggy.com/careers, meesho.io, groww.in/careers, zerodha.com, phonepe.com/careers, flipkartcareers.com",
+    "Big Tech India (mostly Workday): uber, salesforce, adobe, nvidia, atlassian, confluent, mongodb, stripe"
+  ]
+}
