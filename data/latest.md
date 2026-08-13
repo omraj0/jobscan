@@ -1,14 +1,10 @@
-# Job scan — 12 Aug 2026, 04:23 UTC
+# Job scan — 13 Aug 2026, 04:27 UTC
 
-**8 new** since last run · 23 matched today · 1989 unique fetched from 19 boards
+**4 new** since last run · 26 matched today · 1975 unique fetched from 19 boards
 
 | Company | Role | Location | Age | Apply |
 |---|---|---|---|---|
-| GitLab | Backend Engineer, Geo Team | Bangalore, India | 0d | [apply](https://job-boards.greenhouse.io/gitlab/jobs/8695515002) |
-| GitLab | Intermediate Backend Engineer | Bangalore, India | 0d | [apply](https://job-boards.greenhouse.io/gitlab/jobs/8686962002) |
-| Roku | Senior Software Engineer - Backend and Data | Bengaluru, India | 0d | [apply](https://www.weareroku.com/jobs/8092397?gh_jid=8092397) |
-| Omnissa | Senior Software Engineer - (macOS-Swift/Objective C)-Bengaluru | Bengaluru, India | 0d | [apply](https://omnissa.wd501.myworkdayjobs.com/en-US/omnissa_external_career_site/job/Bengaluru-India/Senior-Software-Engineer----macOS-Swift-Objective-C-_R-101855-1) |
-| Omnissa | Senior Software Engineer (C#, Distributed systems)- Bengaluru | Bengaluru, India | 0d | [apply](https://omnissa.wd501.myworkdayjobs.com/en-US/omnissa_external_career_site/job/Bengaluru-India/Member-of-Technical-Staff--C---Distributed-systems-_R-100949) |
-| Visa | Sr. SW Engineer - Java, Spring Boot, GenAI | IN - Bengaluru, India | 0d | [apply](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/IN---Bengaluru-India/Sr-SW-Engineer---NET-Core---C-_REF082422W) |
-| Salesforce | Software Engineering MTS | Indiana - Indianapolis | 0d | [apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Indiana---Indianapolis/Software-Engineering-MTS_JR352343) |
-| Salesforce | Software Engineering LMTS- MLE | India - Bangalore | 0d | [apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Bangalore/AI-ML-Software-Engineering-PMTS_JR313327) |
+| GitLab | Senior Backend Engineer (Ruby), Plan: Spec-Driven Development | Remote, Poland; Remote, United Kingdom | 0d | [apply](https://job-boards.greenhouse.io/gitlab/jobs/8682860002) |
+| GitLab | Senior Software Engineer (Typescript), AI Clients: Duo CLI | Remote, Poland; Remote, United Kingdom | 0d | [apply](https://job-boards.greenhouse.io/gitlab/jobs/8693103002) |
+| Roku | Senior Software Engineer - Backend | Bengaluru, India | 0d | [apply](https://www.weareroku.com/jobs/7808514?gh_jid=7808514) |
+| Salesforce | Software Engineering LMTS - Release Engineering | India - Hyderabad | 0d | [apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Hyderabad/Software-Engineering-LMTS---Release-Engineering_JR354137-1) |
