@@ -1,8 +1,11 @@
-# Job scan — 24 Aug 2026, 03:32 UTC
+# Job scan — 25 Aug 2026, 03:26 UTC
 
-**2 new** since last run · 17 matched today · 2024 unique fetched from 19 boards
+**5 new** since last run · 19 matched today · 2025 unique fetched from 19 boards
 
 | Company | Role | Location | Age | Apply |
 |---|---|---|---|---|
-| Visa | Software Engineer-2 | IN - Bengaluru, India | 0d | [apply](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/IN---Bengaluru-India/Software-Engineer-2_REF081481W) |
-| Visa | Software Engineer | IN - Bengaluru, India | 0d | [apply](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/IN---Bengaluru-India/Software-Engineer_REF081660W) |
+| GitLab | Intermediate Backend Engineer - Database Change Management | Bangalore, India | 0d | [apply](https://job-boards.greenhouse.io/gitlab/jobs/8722304002) |
+| GitLab | Intermediate Software Engineer | Bangalore, India | 0d | [apply](https://job-boards.greenhouse.io/gitlab/jobs/8721229002) |
+| GitLab | Senior Backend Engineer - Database Change Management | Bangalore, India | 0d | [apply](https://job-boards.greenhouse.io/gitlab/jobs/8716271002) |
+| GitLab | Senior Software Engineer | Bangalore, India | 0d | [apply](https://job-boards.greenhouse.io/gitlab/jobs/8721124002) |
+| Roku | Senior Software Engineer, Demand Bidder, Ad Serving Platform | Bengaluru, India | 0d | [apply](https://www.weareroku.com/jobs/8002598?gh_jid=8002598) |
