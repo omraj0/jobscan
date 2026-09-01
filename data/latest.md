@@ -1,9 +1,7 @@
-# Job scan — 31 Aug 2026, 08:51 UTC
+# Job scan — 01 Sep 2026, 07:57 UTC
 
-**3 new** since last run · 24 matched today · 2070 unique fetched from 19 boards
+**1 new** since last run · 18 matched today · 2068 unique fetched from 19 boards
 
 | Company | Role | Location | Age | Apply |
 |---|---|---|---|---|
-| GitLab | Senior Backend Engineer (Ruby), AI Catalog: External Agents | Remote, United Kingdom | 0d | [apply](https://job-boards.greenhouse.io/gitlab/jobs/8759577002) |
-| project44 | Senior Software Engineer | Bangalore | 0d | [apply](https://job-boards.greenhouse.io/project44/jobs/8159037) |
-| project44 | Senior Software Engineer 1 | Bangalore | 0d | [apply](https://job-boards.greenhouse.io/project44/jobs/8124492) |
+| Visa | Sr. SW Engineer (3-5 years, GenAI, Java/Python full stack) | IN - Bengaluru, India | 0d | [apply](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/IN---Bengaluru-India/Sr-SW-Engineer--3-5-years--GenAI--Java-Python-full-stack-_REF087773W) |
