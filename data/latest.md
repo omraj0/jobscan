@@ -1,10 +1,12 @@
-# Job scan — 02 Sep 2026, 07:17 UTC
+# Job scan — 03 Sep 2026, 07:20 UTC
 
-**4 new** since last run · 22 matched today · 2083 unique fetched from 19 boards
+**6 new** since last run · 29 matched today · 2088 unique fetched from 19 boards
 
 | Company | Role | Location | Age | Apply |
 |---|---|---|---|---|
-| Roku | Senior Software Engineer, Backend | Bengaluru, India | 0d | [apply](https://www.weareroku.com/jobs/8081750?gh_jid=8081750) |
-| Pinterest | Sr. Security Software Engineer, Security Operations | San Francisco, CA, US; Remote, US | 0d | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=8096738) |
-| Salesforce | Software Engineering MTS (Full Stack) - AI Generalist (Demo Tools & Platform Engineering) | India - Hyderabad | 0d | [apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Hyderabad/Software-Engineering-MTS--Full-Stack-_JR339748) |
-| Visa | Software Engineer - Sr. Consultant level | IN - Bengaluru, India | 1d | [apply](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/IN---Bengaluru-India/Software-Engineer---Sr-Consultant-level_REF087957W) |
+| GitLab | Intermediate Backend Engineer, AMER | Remote, Canada; Remote, United States | 0d | [apply](https://job-boards.greenhouse.io/gitlab/jobs/8773006002) |
+| GitLab | Intermediate Backend Engineer, EMEA | Remote, Poland | 0d | [apply](https://job-boards.greenhouse.io/gitlab/jobs/8775415002) |
+| GitLab | Intermediate Backend Engineer, EMEA | Remote, United Kingdom | 0d | [apply](https://job-boards.greenhouse.io/gitlab/jobs/8778279002) |
+| GitLab | Intermediate Backend Engineer, India | Remote, India | 0d | [apply](https://job-boards.greenhouse.io/gitlab/jobs/8775507002) |
+| GitLab | Senior Software Engineer (Ruby), Security Platform: Authorization | Remote, Canada; Remote, Israel; Remote, United Kingdom; Remote, United States | 0d | [apply](https://job-boards.greenhouse.io/gitlab/jobs/8738225002) |
+| Salesforce | Infrastructure Platform Engineering (SMTS, Software Engineering) | India - Hyderabad | 0d | [apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Hyderabad/Infrastructure-Platform-Engineering--SMTS--Software-Engineering-_JR356752) |
