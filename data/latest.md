@@ -1,8 +1,11 @@
-# Job scan — 26 Sep 2026, 07:57 UTC
+# Job scan — 27 Sep 2026, 08:30 UTC
 
-**0 new** since last run · 24 matched today · 2029 unique fetched from 19 boards
+**2 new** since last run · 25 matched today · 2033 unique fetched from 19 boards
 
-_Nothing new this run._
+| Company | Role | Location | Age | Apply |
+|---|---|---|---|---|
+| Walmart | (IND) Software Engineer III | IN KA BANGALORE Home Office Building 10 | 2d | [apply](https://walmart.wd504.myworkdayjobs.com/en-US/walmartexternal/job/IN-KA-BANGALORE-Home-Office-Building-10/XMLNAME--IND--Software-Engineer-III_R-2639528-1) |
+| Walmart | (IND) Senior, Software Engineer | IN KA BANGALORE Home Office Building 10 | 3d | [apply](https://walmart.wd504.myworkdayjobs.com/en-US/walmartexternal/job/IN-KA-BANGALORE-Home-Office-Building-10/XMLNAME--IND--Senior--Software-Engineer_R-2646401) |
 
 ## Boards that errored
 
