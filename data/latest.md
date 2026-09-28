@@ -1,11 +1,12 @@
-# Job scan — 27 Sep 2026, 08:30 UTC
+# Job scan — 28 Sep 2026, 08:54 UTC
 
-**2 new** since last run · 25 matched today · 2033 unique fetched from 19 boards
+**3 new** since last run · 26 matched today · 2030 unique fetched from 19 boards
 
 | Company | Role | Location | Age | Apply |
 |---|---|---|---|---|
-| Walmart | (IND) Software Engineer III | IN KA BANGALORE Home Office Building 10 | 2d | [apply](https://walmart.wd504.myworkdayjobs.com/en-US/walmartexternal/job/IN-KA-BANGALORE-Home-Office-Building-10/XMLNAME--IND--Software-Engineer-III_R-2639528-1) |
-| Walmart | (IND) Senior, Software Engineer | IN KA BANGALORE Home Office Building 10 | 3d | [apply](https://walmart.wd504.myworkdayjobs.com/en-US/walmartexternal/job/IN-KA-BANGALORE-Home-Office-Building-10/XMLNAME--IND--Senior--Software-Engineer_R-2646401) |
+| Ema | Platform Engineer, US | US (Remote) (Remote) | 0d | [apply](https://jobs.ashbyhq.com/ema/c57b5f2b-1793-41e8-91d4-ed33f1f0daca) |
+| Omnissa | Software Engineer - C# .net | Bengaluru, India | 0d | [apply](https://omnissa.wd501.myworkdayjobs.com/en-US/omnissa_external_career_site/job/Bengaluru-India/Software-Engineer---C--net_R-102276) |
+| Visa | Senior Software Engineer - Java, API's, Microservices, Angular/React, Bigdata, GenAI | IN - Bengaluru, India | 0d | [apply](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/IN---Bengaluru-India/Senior-Software-Engineer---Java--API-s--Microservices--Angular-React--Bigdata--GenAI_REF088747W) |
 
 ## Boards that errored
 
