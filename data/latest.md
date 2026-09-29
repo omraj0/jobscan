@@ -1,12 +1,12 @@
-# Job scan — 28 Sep 2026, 08:54 UTC
+# Job scan — 29 Sep 2026, 08:57 UTC
 
-**3 new** since last run · 26 matched today · 2030 unique fetched from 19 boards
+**3 new** since last run · 21 matched today · 2035 unique fetched from 19 boards
 
 | Company | Role | Location | Age | Apply |
 |---|---|---|---|---|
-| Ema | Platform Engineer, US | US (Remote) (Remote) | 0d | [apply](https://jobs.ashbyhq.com/ema/c57b5f2b-1793-41e8-91d4-ed33f1f0daca) |
-| Omnissa | Software Engineer - C# .net | Bengaluru, India | 0d | [apply](https://omnissa.wd501.myworkdayjobs.com/en-US/omnissa_external_career_site/job/Bengaluru-India/Software-Engineer---C--net_R-102276) |
-| Visa | Senior Software Engineer - Java, API's, Microservices, Angular/React, Bigdata, GenAI | IN - Bengaluru, India | 0d | [apply](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/IN---Bengaluru-India/Senior-Software-Engineer---Java--API-s--Microservices--Angular-React--Bigdata--GenAI_REF088747W) |
+| Visa | Senior Software Engineer (Python / Java, GenAI Development, 3-6 years' experience) | IN - Bengaluru, India | 0d | [apply](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/IN---Bengaluru-India/Senior-Software-Engineer--Python---Java--GenAI-Development--3-6-years--experience-_REF088679W) |
+| Visa | Sr SW Engineer: Go, Java, Kubernetes,LLM-3+yrs | IN - Bengaluru, India | 1d | [apply](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/IN---Bengaluru-India/Sr-SW-Engineer--I5_REF088646W-1) |
+| NVIDIA | System Security Software Engineer | India, Pune | 1d | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Pune/System-Security-Software-Engineer_JR2026548) |
 
 ## Boards that errored
 
