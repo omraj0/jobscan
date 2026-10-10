@@ -1,11 +1,10 @@
-# Job scan — 09 Oct 2026, 09:30 UTC
+# Job scan — 10 Oct 2026, 08:52 UTC
 
-**2 new** since last run · 14 matched today · 1993 unique fetched from 19 boards
+**1 new** since last run · 15 matched today · 1980 unique fetched from 19 boards
 
 | Company | Role | Location | Age | Apply |
 |---|---|---|---|---|
-| Salesforce | Software Engineering PMTS (Apache, Kafka, Terraform) | India - Hyderabad | 0d | [apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Hyderabad/Software-Engineering-PMTS_JR359744) |
-| Salesforce | Software Engineering PMTS - Cloud Infra &  Security - Hyderabad | India - Hyderabad | 1d | [apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Hyderabad/Software-Engineering-PMTS---Cloud-Security---Hyderabad_JR357893) |
+| GitLab | Senior Software Engineer, Security Factory: Code Security | Remote, Canada; Remote, United States | 0d | [apply](https://job-boards.greenhouse.io/gitlab/jobs/8738179002) |
 
 ## Boards that errored
 
