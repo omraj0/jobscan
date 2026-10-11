@@ -1,10 +1,8 @@
-# Job scan — 10 Oct 2026, 08:52 UTC
+# Job scan — 11 Oct 2026, 09:13 UTC
 
-**1 new** since last run · 15 matched today · 1980 unique fetched from 19 boards
+**0 new** since last run · 15 matched today · 1976 unique fetched from 19 boards
 
-| Company | Role | Location | Age | Apply |
-|---|---|---|---|---|
-| GitLab | Senior Software Engineer, Security Factory: Code Security | Remote, Canada; Remote, United States | 0d | [apply](https://job-boards.greenhouse.io/gitlab/jobs/8738179002) |
+_Nothing new this run._
 
 ## Boards that errored
 
