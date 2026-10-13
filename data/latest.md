@@ -1,10 +1,8 @@
-# Job scan — 12 Oct 2026, 09:39 UTC
+# Job scan — 13 Oct 2026, 09:41 UTC
 
-**1 new** since last run · 15 matched today · 1978 unique fetched from 19 boards
+**0 new** since last run · 14 matched today · 1972 unique fetched from 19 boards
 
-| Company | Role | Location | Age | Apply |
-|---|---|---|---|---|
-| Databricks | Sr. AI Engineer, AI FDE | Remote - India | 0d | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8516112002) |
+_Nothing new this run._
 
 ## Boards that errored
 
