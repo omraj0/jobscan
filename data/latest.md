@@ -1,12 +1,17 @@
-# Job scan — 16 Oct 2026, 07:28 UTC
+# Job scan — 17 Oct 2026, 07:08 UTC
 
-**2 new** since last run · 17 matched today · 1936 unique fetched from 19 boards
+**1 new** since last run · 6 matched today · 1716 unique fetched from 19 boards
 
 | Company | Role | Location | Age | Apply |
 |---|---|---|---|---|
-| GitLab | Senior Software Engineer, SSCS : Authentication | Bangalore, India | 1d | [apply](https://job-boards.greenhouse.io/gitlab/jobs/8878486002) |
-| PayPal | Senior Software Engineer - Fullstack | Bangalore, Karnataka, India | 1d | [apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Bangalore-Karnataka-India/Sr-Software-Engineer_R0137884) |
+| GitLab | Intermediate Backend Engineer - Code Security | Bangalore, India | 0d | [apply](https://job-boards.greenhouse.io/gitlab/jobs/8894531002) |
 
 ## Boards that errored
 
 - `Atomicwork (greenhouse): HTTPError 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/atomicwork/jobs?content=true`
+- `Omnissa (workday): JSONDecodeError Expecting value: line 1 column 1 (char 0)`
+- `Visa (workday): JSONDecodeError Expecting value: line 1 column 1 (char 0)`
+- `NVIDIA (workday): JSONDecodeError Expecting value: line 1 column 1 (char 0)`
+- `Salesforce (workday): JSONDecodeError Expecting value: line 1 column 1 (char 0)`
+- `McKesson (workday): JSONDecodeError Expecting value: line 1 column 1 (char 0)`
+- `PayPal (workday): JSONDecodeError Expecting value: line 1 column 1 (char 0)`
