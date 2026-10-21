@@ -1,12 +1,13 @@
-# Job scan — 20 Oct 2026, 07:52 UTC
+# Job scan — 21 Oct 2026, 07:56 UTC
 
-**3 new** since last run · 12 matched today · 1916 unique fetched from 19 boards
+**4 new** since last run · 16 matched today · 1923 unique fetched from 19 boards
 
 | Company | Role | Location | Age | Apply |
 |---|---|---|---|---|
-| GitLab | Backend Engineer (Ruby), Create: Change Record | Remote, Poland; Remote, United Kingdom | 0d | [apply](https://job-boards.greenhouse.io/gitlab/jobs/8891301002) |
-| Visa | Sr. SW Engineer (3 - 5 years of exp in Python, AI & Agentic Automation) | IN - Bengaluru, India | 1d | [apply](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/IN---Bengaluru-India/Sr-SW-Engineer--3---5-years-of-exp-in-Python--AI---Agentic-Automation-_REF089273W-1) |
-| PayPal | Sr Software Engineer - Python | Bangalore, Karnataka, India | 1d | [apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Bangalore-Karnataka-India/Sr-Software-Engineer---Python_R0138315-1) |
+| Visa | Software Engineer (6months to 2 years experience, Java/Python) | IN - Bengaluru, India | 0d | [apply](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/IN---Bengaluru-India/Software-Engineer--6months-to-2-years-experience--Java-Python-_REF089294W) |
+| Salesforce | Software Engineering - Quality Engineering | India - Bangalore | 0d | [apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Bangalore/Software-Engineering---Quality-Engineering_JR339837-1) |
+| Visa | Senior Software Engineer, Corporate Banking | BR - Remote - Brazil | 1d | [apply](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/BR---Remote---Brazil/Senior-Software-Engineer--Corporate-Banking_REF089471W) |
+| McKesson | Senior Software Engineer | Bangalore, KA, IND - 8th Floor of Onyx Building (I009) | 1d | [apply](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/Bangalore-KA-IND---8th-Floor-of-Onyx-Building-I009/Staff-Software-Engineer_JR0147787) |
 
 ## Boards that errored
 
