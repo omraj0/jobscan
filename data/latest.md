@@ -1,13 +1,8 @@
-# Job scan — 21 Oct 2026, 07:56 UTC
+# Job scan — 22 Oct 2026, 07:53 UTC
 
-**4 new** since last run · 16 matched today · 1923 unique fetched from 19 boards
+**0 new** since last run · 13 matched today · 1928 unique fetched from 19 boards
 
-| Company | Role | Location | Age | Apply |
-|---|---|---|---|---|
-| Visa | Software Engineer (6months to 2 years experience, Java/Python) | IN - Bengaluru, India | 0d | [apply](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/IN---Bengaluru-India/Software-Engineer--6months-to-2-years-experience--Java-Python-_REF089294W) |
-| Salesforce | Software Engineering - Quality Engineering | India - Bangalore | 0d | [apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Bangalore/Software-Engineering---Quality-Engineering_JR339837-1) |
-| Visa | Senior Software Engineer, Corporate Banking | BR - Remote - Brazil | 1d | [apply](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/BR---Remote---Brazil/Senior-Software-Engineer--Corporate-Banking_REF089471W) |
-| McKesson | Senior Software Engineer | Bangalore, KA, IND - 8th Floor of Onyx Building (I009) | 1d | [apply](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/Bangalore-KA-IND---8th-Floor-of-Onyx-Building-I009/Staff-Software-Engineer_JR0147787) |
+_Nothing new this run._
 
 ## Boards that errored
 
