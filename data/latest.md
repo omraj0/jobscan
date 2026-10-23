@@ -1,8 +1,10 @@
-# Job scan — 22 Oct 2026, 07:53 UTC
+# Job scan — 23 Oct 2026, 07:52 UTC
 
-**0 new** since last run · 13 matched today · 1928 unique fetched from 19 boards
+**1 new** since last run · 15 matched today · 1938 unique fetched from 19 boards
 
-_Nothing new this run._
+| Company | Role | Location | Age | Apply |
+|---|---|---|---|---|
+| Omnissa | Python Developer (Backend) - Bengaluru | Bengaluru, India | 1d | [apply](https://omnissa.wd501.myworkdayjobs.com/en-US/omnissa_external_career_site/job/Bengaluru-India/Engineer---Senior-Engineer---Machine-Learning-AI-Platform-_R-101232-1) |
 
 ## Boards that errored
 
