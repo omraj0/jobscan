@@ -1,11 +1,16 @@
-# Job scan — 23 Oct 2026, 07:52 UTC
+# Job scan — 24 Oct 2026, 07:33 UTC
 
-**1 new** since last run · 15 matched today · 1938 unique fetched from 19 boards
+**3 new** since last run · 11 matched today · 1859 unique fetched from 19 boards
 
 | Company | Role | Location | Age | Apply |
 |---|---|---|---|---|
-| Omnissa | Python Developer (Backend) - Bengaluru | Bengaluru, India | 1d | [apply](https://omnissa.wd501.myworkdayjobs.com/en-US/omnissa_external_career_site/job/Bengaluru-India/Engineer---Senior-Engineer---Machine-Learning-AI-Platform-_R-101232-1) |
+| GitLab | Backend Engineer, Knowledge Graph (Rust) | Remote, Canada; Remote, United States | 0d | [apply](https://job-boards.greenhouse.io/gitlab/jobs/8771512002) |
+| Mesh | Senior Backend Engineer | United States - Remote | 0d | [apply](https://job-boards.greenhouse.io/mesh/jobs/5462362008) |
+| Omnissa | Software Engineer ( C# .net)-Bengaluru | Bengaluru, India | 1d | [apply](https://omnissa.wd501.myworkdayjobs.com/en-US/omnissa_external_career_site/job/Bengaluru-India/Software-Engineer---C--net_R-101999-2) |
 
 ## Boards that errored
 
 - `Atomicwork (greenhouse): HTTPError 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/atomicwork/jobs?content=true`
+- `Visa (workday): JSONDecodeError Expecting value: line 1 column 1 (char 0)`
+- `NVIDIA (workday): JSONDecodeError Expecting value: line 1 column 1 (char 0)`
+- `PayPal (workday): JSONDecodeError Expecting value: line 1 column 1 (char 0)`
