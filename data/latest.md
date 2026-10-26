@@ -1,6 +1,6 @@
-# Job scan — 25 Oct 2026, 07:46 UTC
+# Job scan — 26 Oct 2026, 08:03 UTC
 
-**0 new** since last run · 15 matched today · 1941 unique fetched from 19 boards
+**0 new** since last run · 10 matched today · 1939 unique fetched from 19 boards
 
 _Nothing new this run._
 
