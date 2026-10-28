@@ -1,8 +1,10 @@
-# Job scan — 27 Oct 2026, 08:17 UTC
+# Job scan — 28 Oct 2026, 08:54 UTC
 
-**0 new** since last run · 8 matched today · 1934 unique fetched from 19 boards
+**1 new** since last run · 8 matched today · 1924 unique fetched from 19 boards
 
-_Nothing new this run._
+| Company | Role | Location | Age | Apply |
+|---|---|---|---|---|
+| GitLab | Software Engineer, Delivery : Release | Bangalore, India | 0d | [apply](https://job-boards.greenhouse.io/gitlab/jobs/8916232002) |
 
 ## Boards that errored
 
