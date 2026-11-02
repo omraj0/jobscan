@@ -1,8 +1,12 @@
-# Job scan — 01 Nov 2026, 09:36 UTC
+# Job scan — 02 Nov 2026, 09:52 UTC
 
-**0 new** since last run · 17 matched today · 1940 unique fetched from 19 boards
+**3 new** since last run · 19 matched today · 1944 unique fetched from 19 boards
 
-_Nothing new this run._
+| Company | Role | Location | Age | Apply |
+|---|---|---|---|---|
+| Databricks | Evergreen - AI Engineer, AI FDE | Bengaluru, India | 0d | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8878946002) |
+| Databricks | Sr. Software Engineer- Databricks AI | Bengaluru, India | 0d | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8924868002) |
+| PayPal | Senior Software Engineer - Backend (Java) | Chennai, Tamil Nadu, India | 1d | [apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Chennai-Tamil-Nadu-India/Senior-Software-Engineer---Backend--Java-_R0138265-1) |
 
 ## Boards that errored
 
