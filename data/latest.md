@@ -1,12 +1,11 @@
-# Job scan — 02 Nov 2026, 09:52 UTC
+# Job scan — 03 Nov 2026, 09:56 UTC
 
-**3 new** since last run · 19 matched today · 1944 unique fetched from 19 boards
+**2 new** since last run · 22 matched today · 1945 unique fetched from 19 boards
 
 | Company | Role | Location | Age | Apply |
 |---|---|---|---|---|
-| Databricks | Evergreen - AI Engineer, AI FDE | Bengaluru, India | 0d | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8878946002) |
-| Databricks | Sr. Software Engineer- Databricks AI | Bengaluru, India | 0d | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8924868002) |
-| PayPal | Senior Software Engineer - Backend (Java) | Chennai, Tamil Nadu, India | 1d | [apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Chennai-Tamil-Nadu-India/Senior-Software-Engineer---Backend--Java-_R0138265-1) |
+| Visa | Sr. SW Engineer (Python, Product Reliability / DB Reliability Eng - 4-6 years' exp) | IN - Bengaluru, India | 1d | [apply](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/IN---Bengaluru-India/Sr-SW-Engineer--Python--Product-Reliability---DB-Reliability-Eng---4-6-years--exp-_REF089041W) |
+| PayPal | Sr Software Engineer, Back End | Bangalore, Karnataka, India | 1d | [apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Bangalore-Karnataka-India/Sr-Software-Engineer--Back-End_R0138416-1) |
 
 ## Boards that errored
 
