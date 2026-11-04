@@ -1,11 +1,12 @@
-# Job scan — 03 Nov 2026, 09:56 UTC
+# Job scan — 04 Nov 2026, 09:44 UTC
 
-**2 new** since last run · 22 matched today · 1945 unique fetched from 19 boards
+**3 new** since last run · 20 matched today · 1958 unique fetched from 19 boards
 
 | Company | Role | Location | Age | Apply |
 |---|---|---|---|---|
-| Visa | Sr. SW Engineer (Python, Product Reliability / DB Reliability Eng - 4-6 years' exp) | IN - Bengaluru, India | 1d | [apply](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/IN---Bengaluru-India/Sr-SW-Engineer--Python--Product-Reliability---DB-Reliability-Eng---4-6-years--exp-_REF089041W) |
-| PayPal | Sr Software Engineer, Back End | Bangalore, Karnataka, India | 1d | [apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Bangalore-Karnataka-India/Sr-Software-Engineer--Back-End_R0138416-1) |
+| GitLab | Intermediate Backend Engineer, Authorization | Bangalore, India | 0d | [apply](https://job-boards.greenhouse.io/gitlab/jobs/8905402002) |
+| GitLab | Senior Backend Engineer, Development Health | Bangalore, India | 0d | [apply](https://job-boards.greenhouse.io/gitlab/jobs/8928675002) |
+| Mesh | Senior Backend Engineer | Bangalore, India | 0d | [apply](https://job-boards.greenhouse.io/mesh/jobs/5470904008) |
 
 ## Boards that errored
 
