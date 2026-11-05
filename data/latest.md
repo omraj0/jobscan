@@ -1,12 +1,11 @@
-# Job scan — 04 Nov 2026, 09:44 UTC
+# Job scan — 05 Nov 2026, 09:46 UTC
 
-**3 new** since last run · 20 matched today · 1958 unique fetched from 19 boards
+**2 new** since last run · 21 matched today · 1980 unique fetched from 19 boards
 
 | Company | Role | Location | Age | Apply |
 |---|---|---|---|---|
-| GitLab | Intermediate Backend Engineer, Authorization | Bangalore, India | 0d | [apply](https://job-boards.greenhouse.io/gitlab/jobs/8905402002) |
-| GitLab | Senior Backend Engineer, Development Health | Bangalore, India | 0d | [apply](https://job-boards.greenhouse.io/gitlab/jobs/8928675002) |
-| Mesh | Senior Backend Engineer | Bangalore, India | 0d | [apply](https://job-boards.greenhouse.io/mesh/jobs/5470904008) |
+| GitLab | Intermediate Backend Engineer , Security Factory | Bangalore, India | 0d | [apply](https://job-boards.greenhouse.io/gitlab/jobs/8890971002) |
+| GitLab | Senior Backend Engineer, Cloud Cost & Capacity | Bangalore, India | 0d | [apply](https://job-boards.greenhouse.io/gitlab/jobs/8800507002) |
 
 ## Boards that errored
 
