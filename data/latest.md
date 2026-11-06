@@ -1,11 +1,10 @@
-# Job scan — 05 Nov 2026, 09:46 UTC
+# Job scan — 06 Nov 2026, 09:45 UTC
 
-**2 new** since last run · 21 matched today · 1980 unique fetched from 19 boards
+**1 new** since last run · 23 matched today · 1978 unique fetched from 19 boards
 
 | Company | Role | Location | Age | Apply |
 |---|---|---|---|---|
-| GitLab | Intermediate Backend Engineer , Security Factory | Bangalore, India | 0d | [apply](https://job-boards.greenhouse.io/gitlab/jobs/8890971002) |
-| GitLab | Senior Backend Engineer, Cloud Cost & Capacity | Bangalore, India | 0d | [apply](https://job-boards.greenhouse.io/gitlab/jobs/8800507002) |
+| Visa | Sr. SW Engineer (3-5 yrs of experience in Python and GenAI Automation Development & basic Windows and MacOS knowledge) | IN - Bengaluru, India | 1d | [apply](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/IN---Bengaluru-India/Sr-SW-Engineer---Agentic-Developer--Java-Python--3-5-yrs-of-experience-_REF083019W) |
 
 ## Boards that errored
 
