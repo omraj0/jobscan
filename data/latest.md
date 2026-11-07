@@ -1,10 +1,10 @@
-# Job scan — 06 Nov 2026, 09:45 UTC
+# Job scan — 07 Nov 2026, 09:08 UTC
 
-**1 new** since last run · 23 matched today · 1978 unique fetched from 19 boards
+**1 new** since last run · 24 matched today · 1980 unique fetched from 19 boards
 
 | Company | Role | Location | Age | Apply |
 |---|---|---|---|---|
-| Visa | Sr. SW Engineer (3-5 yrs of experience in Python and GenAI Automation Development & basic Windows and MacOS knowledge) | IN - Bengaluru, India | 1d | [apply](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/IN---Bengaluru-India/Sr-SW-Engineer---Agentic-Developer--Java-Python--3-5-yrs-of-experience-_REF083019W) |
+| Databricks | Senior Software Engineer - Backend Infrastructure | Bengaluru, India | 0d | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7647294002) |
 
 ## Boards that errored
 
