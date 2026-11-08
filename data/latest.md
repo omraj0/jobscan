@@ -1,10 +1,8 @@
-# Job scan — 07 Nov 2026, 09:08 UTC
+# Job scan — 08 Nov 2026, 09:24 UTC
 
-**1 new** since last run · 24 matched today · 1980 unique fetched from 19 boards
+**0 new** since last run · 22 matched today · 1978 unique fetched from 19 boards
 
-| Company | Role | Location | Age | Apply |
-|---|---|---|---|---|
-| Databricks | Senior Software Engineer - Backend Infrastructure | Bengaluru, India | 0d | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7647294002) |
+_Nothing new this run._
 
 ## Boards that errored
 
