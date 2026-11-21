@@ -1,10 +1,10 @@
-# Job scan — 20 Nov 2026, 10:21 UTC
+# Job scan — 21 Nov 2026, 10:06 UTC
 
-**1 new** since last run · 8 matched today · 1801 unique fetched from 19 boards
+**1 new** since last run · 11 matched today · 1811 unique fetched from 19 boards
 
 | Company | Role | Location | Age | Apply |
 |---|---|---|---|---|
-| Omnissa | Senior Software Engineer (Java) - Bengaluru | Bengaluru, India | 0d | [apply](https://omnissa.wd501.myworkdayjobs.com/en-US/omnissa_external_career_site/job/Bengaluru-India/Senior-Member-of-Technical-Staff_R-101816-1) |
+| GitLab | Senior CX Platform Engineer | Remote, Canada | 0d | [apply](https://job-boards.greenhouse.io/gitlab/jobs/8957066002) |
 
 ## Boards that errored
 
